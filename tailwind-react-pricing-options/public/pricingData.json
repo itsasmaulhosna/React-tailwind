@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": 25,
+    "duration": "Monthly",
+    "description": "Great for beginners or casual workouts.",
+    "features": [
+      "Access to gym equipment",
+      "1 personal training session per month",
+      "Locker room access",
+      "No group classes included"
+    ],
+    "popular": false
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": 50,
+    "duration": "Monthly",
+    "description": "Ideal for regular fitness enthusiasts.",
+    "features": [
+      "Access to all gym equipment",
+      "4 personal training sessions per month",
+      "Locker room access",
+      "Unlimited group classes",
+      "Nutrition guidance"
+    ],
+    "popular": true
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "price": 80,
+    "duration": "Monthly",
+    "description": "Perfect for serious fitness goals.",
+    "features": [
+      "24/7 Gym access",
+      "8 personal training sessions per month",
+      "Locker room & sauna access",
+      "Unlimited group classes",
+      "Customized nutrition plan",
+      "Wellness workshops"
+    ],
+    "popular": false
+  }
+]
